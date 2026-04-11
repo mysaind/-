@@ -28,7 +28,7 @@ function animarCursor() {
 animarCursor();
 
 /* TEXTO ANIMADO */
-const palabras = ["DESARROLLADOR", "FRONTEND", "JAVA"];
+const palabras = ["DESARROLLADOR", "FRONTEND", "JAVA", "PYTHON", "C++", "SQLITE", "HTML", "CSS", "JAVASCRIPT", "TYPESCRIPT"];
 const texto = document.getElementById("texto");
 
 let i = 0, j = 0, borrando = false;
